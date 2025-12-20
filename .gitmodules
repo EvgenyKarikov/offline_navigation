@@ -1,0 +1,3 @@
+[submodule "skydiffusion"]
+	path = skydiffusion
+	url = https://github.com/opendatalab/skydiffusion.git
