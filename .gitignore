@@ -14,6 +14,7 @@ dist/
 .coverage
 *.py,cover
 .cache/
+cache/
 
 # Файлы *.py,cover не несут никакого смысла
 *.py,cover
